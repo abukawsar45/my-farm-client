@@ -1,0 +1,2 @@
+1. pic hosting key : d587fe35facb984ebe5250193519c219
+2. image api : https://api.imgbb.com/1/upload?key=YOUR_CLIENT_API_KEY
