@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[My-Farm Live site](https://my-farm-client.vercel.app/)
+
+
+[Server-repo](https://github.com/abukawsar45/my-farm-server.git)
 
 ## Getting Started
 
